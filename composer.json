@@ -1,5 +1,5 @@
 {
-    "name": "karakum/commerceml",
+    "name": "maksze/commerceml",
     "type": "library",
     "description": "Library for CommerceML 2.0 parser",
     "keywords": ["parser", "commerceml", "xml"],
@@ -12,6 +12,10 @@
         {
             "name": "Andrey Shertsinger",
             "email": "andrey@shertsinger.ru"
+        },
+        {
+            "name": "Maks Ze",
+            "email": "max.wedbew@gmail.com"
         }
     ],
     "require": {
